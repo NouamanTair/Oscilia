@@ -1,0 +1,14 @@
+# Normalize line endings in the repository
+* text=auto
+
+# Files run on the Raspberry Pi must keep LF
+*.sh text eol=lf
+*.py text eol=lf
+
+# Binaries
+*.bin binary
+*.hex binary
+*.elf binary
+*.png binary
+*.jpg binary
+*.pdf binary
