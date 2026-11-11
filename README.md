@@ -1,9 +1,9 @@
 # Oscilia
 
 Prototype de système embarqué d'acquisition de mouvements :
-accéléromètre (STM32F4 Discovery) → UART → NUCLEO-WB55RG → BLE → téléphone / Raspberry Pi 4.
+accéléromètre (STM32F4 Discovery) → UART → NUCLEO-WB55RG → BLE →  Raspberry Pi 4.
 
-> Prototype technique, pas un dispositif médical validé.
+
 
 ## Architecture
 
